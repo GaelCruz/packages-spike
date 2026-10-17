@@ -1,0 +1,13 @@
+{
+  "name": "gaels-example-node-package",
+  "version": "1.0.0",
+  "description": "A tiny example package that demonstrates how npm packages are created, installed, and used.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}
